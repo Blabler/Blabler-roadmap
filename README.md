@@ -1,7 +1,7 @@
-<center>
-  <img src="https://i.imgur.com/iUpRAST.png" width=50px align="center">
-  <h3 align="center">Blabler-roadmap</h3>
-</center>
+<p align="center">
+  <img src="https://i.imgur.com/iUpRAST.png" align="center" width=80px>
+  <h2 align="center">Blabler</h2>
+</p>
 
 
 # Information
