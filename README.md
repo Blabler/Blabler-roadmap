@@ -1,4 +1,8 @@
-# Blabler-roadmap
+<center>
+  <img src="https://i.imgur.com/iUpRAST.png" width=50px align="center">
+  <h3 align="center">Blabler-roadmap</h3>
+</center>
+
 
 # Information
 A project roadmap - *TODO*
