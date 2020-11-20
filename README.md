@@ -5,7 +5,7 @@
 
 
 # Information
-A project roadmap - *TODO*
+<img src="https://i.imgur.com/3svqXtP.png">
 
 # Project Roadmap
 - [x] Prototype Design.
