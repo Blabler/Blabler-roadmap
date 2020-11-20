@@ -5,6 +5,7 @@
 
 
 # Information
+A Micro Bloggin/Chatting plateform where you can talk with other people about topics & express yourself.
 <img src="https://i.imgur.com/3svqXtP.png">
 
 # Project Roadmap
