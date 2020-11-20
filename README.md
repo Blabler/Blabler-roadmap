@@ -9,6 +9,7 @@
 
 # Project Roadmap
 - [x] Prototype Design.
+- [x] Assets.
 - [ ] Setup environement.
 - [ ] DataBases migrations.
 - [ ] Index Page.
