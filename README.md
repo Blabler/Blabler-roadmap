@@ -11,7 +11,7 @@ A Micro Bloggin/Chatting plateform where you can talk with other people about to
 # Project Roadmap
 - [x] Prototype Design.
 - [x] Assets.
-- [ ] Setup environement.
+- [x] Setup environement.
 - [ ] DataBases migrations.
 - [ ] Index Page.
 - [ ] About Us.
