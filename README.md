@@ -23,6 +23,7 @@ A Micro Bloggin/Chatting plateform where you can talk with other people about to
   - [ ] As Visitor.
 - [ ] Topics System.
 - [ ] Admin Panel.
+- [ ] Responsive Design.
 - [ ] Likes System *(Optional)*
 - [ ] Comment System *(Optional)*
 - [ ] Settings *(Optional)*
