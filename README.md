@@ -13,7 +13,7 @@ A Micro Bloggin/Chatting plateform where you can talk with other people about to
 - [x] Assets.
 - [x] Setup environement.
 - [ ] DataBases migrations.
-- [ ] Index Page.
+- [X] Index Page.
 - [ ] About Us.
 - [ ] Legal Notice.
 - [ ] Auth System.
