@@ -14,6 +14,7 @@ A Micro Bloggin/Chatting plateform where you can talk with other people about to
 - [x] Setup environement.
 - [X] DataBases migrations.
 - [X] Index Page.
+- [ ] Home Page.
 - [ ] About Us.
 - [ ] Legal Notice.
 - [X] Auth System.
