@@ -12,17 +12,17 @@ A Micro Bloggin/Chatting plateform where you can talk with other people about to
 - [x] Prototype Design.
 - [x] Assets.
 - [x] Setup environement.
-- [ ] DataBases migrations.
+- [X] DataBases migrations.
 - [X] Index Page.
 - [ ] About Us.
 - [ ] Legal Notice.
-- [ ] Auth System.
+- [X] Auth System.
 - [ ] Posts System.
 - [ ] Profile Vues
   - [ ] As User.
   - [ ] As Visitor.
 - [ ] Topics System.
-- [ ] Admin Panel.
+- [X] Admin Panel.
 - [ ] Responsive Design.
 - [ ] Likes System *(Optional)*
 - [ ] Comment System *(Optional)*
