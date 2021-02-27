@@ -14,17 +14,15 @@ A Micro Bloggin/Chatting plateform where you can talk with other people about to
 - [x] Setup environement.
 - [X] DataBases migrations.
 - [X] Index Page.
-- [ ] Home Page.
-- [ ] About Us.
-- [ ] Legal Notice.
+- [X] Home Page.
 - [X] Auth System.
-- [ ] Posts System.
-- [ ] Profile Vues
-  - [ ] As User.
-  - [ ] As Visitor.
-- [ ] Topics System.
+- [X] Posts System.
+- [X] Profile Vues
+  - [X] As User.
+  - [X] As Visitor.
+- [X] Topics System.
 - [X] Admin Panel.
-- [ ] Responsive Design.
+- [X] Responsive Design.
 - [ ] Likes System *(Optional)*
 - [ ] Comment System *(Optional)*
 - [ ] Settings *(Optional)*
